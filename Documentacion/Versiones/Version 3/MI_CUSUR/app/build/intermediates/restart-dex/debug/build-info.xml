@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
+    format="7"
+    timestamp="9495743077507"
+    token="-6601180838541809797"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="421" />
+    <task
+        name="instant-run-dex"
+        duration="690" />
+    <task
+        name="instant-run-transform"
+        duration="20" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="7539424274975" >
+        <artifact
+            location="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="9370243017404" >
+        <artifact
+            location="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="9495743077507"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

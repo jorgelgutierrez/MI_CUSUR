@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_ajustes_notificaciones"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Notificaciones" />
+        <item
+            android:id="@+id/nav_ajustes_subir_foto"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Subir Foto de Perfil" />
+    </group>
+
+    <item android:title="Herramientas">
+        <menu>
+            <item
+                android:id="@+id/nav_regresar_de_menu_ajustes"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Regresar" />
+        </menu>
+    </item>
+
+</menu>

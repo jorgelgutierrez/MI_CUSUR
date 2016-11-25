@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_menu_boleta.png",
+        "source": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/src/main/res/mipmap-xxxhdpi/ic_menu_boleta.png"
+    },
+    {
+        "merged": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_menu_home.png",
+        "source": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/src/main/res/mipmap-xxxhdpi/ic_menu_home.png"
+    },
+    {
+        "merged": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_menu_inicio_foto_perfil_default.png",
+        "source": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/src/main/res/mipmap-xxxhdpi/ic_menu_inicio_foto_perfil_default.png"
+    },
+    {
+        "merged": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_menu_cerrar_sesion.png",
+        "source": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/src/main/res/mipmap-xxxhdpi/ic_menu_cerrar_sesion.png"
+    },
+    {
+        "merged": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_app_login.png",
+        "source": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/src/main/res/mipmap-xxxhdpi/ic_app_login.png"
+    },
+    {
+        "merged": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_menu_info.png",
+        "source": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/src/main/res/mipmap-xxxhdpi/ic_menu_info.png"
+    },
+    {
+        "merged": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_menu_horario.png",
+        "source": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/src/main/res/mipmap-xxxhdpi/ic_menu_horario.png"
+    },
+    {
+        "merged": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_menu_ajustes.png",
+        "source": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/src/main/res/mipmap-xxxhdpi/ic_menu_ajustes.png"
+    },
+    {
+        "merged": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_app.png",
+        "source": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/src/main/res/mipmap-xxxhdpi/ic_app.png"
+    },
+    {
+        "merged": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_menu_orden.png",
+        "source": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/src/main/res/mipmap-xxxhdpi/ic_menu_orden.png"
+    },
+    {
+        "merged": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_menu_mapa.png",
+        "source": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/src/main/res/mipmap-xxxhdpi/ic_menu_mapa.png"
+    },
+    {
+        "merged": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_menu_kardex.png",
+        "source": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/src/main/res/mipmap-xxxhdpi/ic_menu_kardex.png"
+    },
+    {
+        "merged": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_noticias_imagen_default.png",
+        "source": "/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/src/main/res/mipmap-xxxhdpi/ic_noticias_imagen_default.png"
+    }
+]

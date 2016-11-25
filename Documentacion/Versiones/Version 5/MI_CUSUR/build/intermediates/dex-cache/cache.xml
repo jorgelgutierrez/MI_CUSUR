@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.6.1_b794469e06d2cc62be6ca8eb797f117fb0b8ebf6.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_ced14741224ef5956bd79d2068176e709805a6d4.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-9.6.1_150b6eb14e058a2c13dd63fea1e1b43a31b990c5.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-9.6.1_eefeb2b51594f57cdd00a84872699c7a396fae0c.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-9.6.1_5e03a7e6a553f52ea64b8cf82c195fd5c2b6350a.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.6.1_3dfdb49092efca4a53c4e862f426bcf235536667.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_9b0d9985cdaa94d87908711b80050b9fc27f4d64.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.6.1_9917930b8d097414b60553dd45932f3b4ab44355.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-9.6.1_0038a5e4b2274fb0f3ddc5bb294a57a58f7c73e4.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.6.1_bd15b6566894e6cf3504c6d9a47588c361703c81.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-9.6.1_6f7f55e3e690f4cc55b6d763a7156256b46b3156.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.6.1_66e31fd72d81db9c350d4741e1654e12eaa92034.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-9.6.1_a78be0bd6ff7c03ef37783c758cd85250acaec82.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_24bcf6c4f7e0b1e99db4c766712c06c09869f43e.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-9.6.1_21cf4c0769ca0136a88bd51f01cee577a6d4f2f1.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_59cf1da27ea95af3223ccbbf469d7782b7bbdde5.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="babb25794a7599069d34705038744c5760a9a88c">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-instantapps-9.6.1_b10dfa3a3b5331bf04672e3b40eebb4b412ae9b3.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-9.6.1_346d181382301adf4cb1d6e85d8f9a4d3a82b466.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.6.1_7687f6e080d6a9d8030d7e4c43c7877901b5bf15.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="518adc52081d41724932b41bc132e4d50a352b86">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-9.6.1_c5c8b5bddc816da949a86782e39ecc47353745e7.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.6.1_bbf0c49976f7491c892c998fd84589abe04b7f0f.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-9.6.1_fff2ea8ebd8027160a5fab7f547593a2cc67d798.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_4f9ad7329b05294dd858bda25388a90a9ca5a79a.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-9.6.1_8185f8d625e0fbdd5f06812485c4d0c5c80beaf6.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-24.0.0_d4340dcf27a79f3cd0d872cacbe6e01fa03f5db8.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.6.1_8ece5e9166fb761efbf4cdc4479032c24b50b073.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-9.6.1_6a22f45bccc6d8b97039595cc0b5a18eece6a312.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-9.6.1_efa72405a4d8f55dd2765ee05886f9af13c83cf3.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_714dc8e19e09690efdcfb815f2c1ce9882a159f5.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_1a30ef4ffe5cfb09e7f2e77a4525d14cde8b2b6e.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-24.0.0_f31104db92d33f30fe29eacf58cb532d2d6b1045.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.6.1_f94ab6e8342bee476c9b25b8f7e29687d324c66e.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_45cf11bfc2318ae1e7888150f532cd83be91d034.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-9.6.1_78b35138b566b669dea699ec38f74791daf7cec8.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-9.6.1_7a7d6842cf543604efc6a2372945178dce0d67f4.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_2b50688fc8f976abf424dfcad76a2a6ea64cae22.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_5898f453df4d2eefe10fd3e3e7906db15f19ccd9.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_b9e2bc7b9d1fcd9dfdf2468f825f5ff74b774810.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-9.6.1_d2cb1b2bd09a8132edb717404c243a7bb8b216e3.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_d363053ef8c05cdc3b648d00c9541e9a733a746d.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-awareness-9.6.1_d8f4aacb0efb9133e68be5799c073044e1827254.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.6.1_8f34b5ac54cc3538189712282196a702f302523d.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.6.1_92972a9b066ce5b4e628cc3ffe31cf0ff83bdce4.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="a136366045678579300d161de97c2211c4c4f7a0">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-9.6.1_c1264db86f581b9ba4af6a8c07178bf1d2f8272d.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.6.1_abe884d155072f15425470f5192e0f482d52867f.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-9.6.1_c526d04f669e04804f075a3378777ae2cfc9b829.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.6.1_488b83f9914332f1b907d9e788a24c931b277042.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="a76a6983a23788b3689524d4bed763955afbd306">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-9.6.1_f744f309a8053cea815f68387b7a53468b0c88e9.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.6.1_326422b913b147085678738f77204df378fd8e5d.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.1_9c4d9c4b54743d2aade1b856433e973a0302ae9e.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.6.1_f65eb654ae9e6d8165c86717bbcc256547bed6e4.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.6.1_7ddaccee59b319313c33e378fa004fdc8b8fb879.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.6.1_882431e4a6d6ec239965e45a03ea9b6ff46065d7.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_ae1233823562268b67627d06fe6e33d79987d669.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/libs/httpmime-4.2.5.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6efc2f9df23c2ac4d3b701a11cab9f9fa6a641d4">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/httpmime-4.2.5_f198c18358f52ba94a4b3e5c6204386ee08105ce.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_1630502890f5e9d1dc7c87ffcad44f91e57ee28e.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.6.1_fe22eaac01a84824ba46628ce6c6db15767ccff8.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_1dd52b455f703523d930d5aa87d841c6f8066c5e.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_b84101b66abad9324813de1a22a7205e764b580f.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_b605cebc9c2dc3760ebae1191f9c8bac212d59fc.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.6.1_0b280e7e74f2cd801fbf95a0c766e685269d38a3.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_25e58edde62275e566e25c0bb883dcf2b8110aea.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_5b1416286669731196801039115cbb20a2cea774.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.6.1_b43b98aa7c729810a004cfbc94bd40ecddfe2005.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_a7851ccce883ec4b51a82dbbe2246bc8e2067af2.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-9.6.1_18b5f24e5f82aa9458ee6f3d73f3e54783e3a7fd.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-9.6.1_9f5d6b888380aa75caec58348d2b03dab25d93e0.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_a0ad019fa54c198975c4f7488a09b5b11c735c6a.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/.gradle/caches/modules-2/files-2.1/com.github.snowdream.android/smartimageview/0.0.2/ff9790a6d5557dd92fa237f7e288d71fa610e081/smartimageview-0.0.2.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ff9790a6d5557dd92fa237f7e288d71fa610e081">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/smartimageview-0.0.2_eff87cf07de91b131675b4a4080d455ed439e0ec.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.6.1_00c45f57ed735a74e02289471cf4c214be5a3d15.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_de5f2d8d6939b189452c473e68a7de40908c724e.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.6.1_38402320f9cd58a53ca567b7e142a5d7c437aecd.jar" />
+    </item>
+    <item
+        jar="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
+        <dex dex="/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-9.6.1_cd2d4966222376a5f3433f193b4ff1f27678936c.jar" />
+    </item>
+
+</items>

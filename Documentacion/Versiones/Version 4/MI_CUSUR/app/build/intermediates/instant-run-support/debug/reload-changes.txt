@@ -1,0 +1,16 @@
+CHANGED,/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/mx/udg/cusur/mi_cusur/Menu_Inicio$override.class
+CHANGED,/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/mx/udg/cusur/mi_cusur/Fragment_Inicio_HOKB$override.class
+CHANGED,/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/mx/udg/cusur/mi_cusur/Fragment_Ajustes$RegistrarToken$override.class
+CHANGED,/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/mx/udg/cusur/mi_cusur/Fragment_Inicio_HOKB$ConsultarMihorario$override.class
+CHANGED,/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/mx/udg/cusur/mi_cusur/Adaptador_Lista_Ajustes_Notificaciones$Titulos_Ajustes_Notificaciones_Holder$override.class
+CHANGED,/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/mx/udg/cusur/mi_cusur/Fragment_Inicio_HOKB$ConsultarOrdenPago$override.class
+CHANGED,/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/mx/udg/cusur/mi_cusur/Adaptador_Lista_Ajustes_Notificaciones$override.class
+CHANGED,/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/mx/udg/cusur/mi_cusur/Fragment_Ajustes$override.class
+CHANGED,/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/mx/udg/cusur/mi_cusur/Fragment_Inicio_InfoAlumno$ConsultarInfoAlumno$override.class
+CHANGED,/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/mx/udg/cusur/mi_cusur/Fragment_Ajustes$1$override.class
+CHANGED,/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/mx/udg/cusur/mi_cusur/Fragment_Ajustes$ConsultarTemas$override.class
+CHANGED,/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/mx/udg/cusur/mi_cusur/Inicio_Sesion$ConsultarUsuario$override.class
+CHANGED,/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/mx/udg/cusur/mi_cusur/Fragment_Inicio_InfoAlumno$override.class
+CHANGED,/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/mx/udg/cusur/mi_cusur/Fragment_Inicio_HOKB$ConsultarKardex$override.class
+CHANGED,/Users/Macbook/Desktop/AndroidStudioProjects/MI_CUSUR/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/mx/udg/cusur/mi_cusur/Fragment_Inicio_HOKB$ConsultarBoletaCalificaciones$override.class

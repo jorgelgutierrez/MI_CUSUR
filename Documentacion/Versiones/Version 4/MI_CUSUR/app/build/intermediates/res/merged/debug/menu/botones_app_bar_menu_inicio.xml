@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Menu_Inicio">
+
+    <item android:id="@+id/app_bar_home"
+        android:title="Ajustes"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_menu_acerca_cusur"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/app_bar_ajustes"
+        android:title="Ajustes"
+        android:orderInCategory="100"
+        android:icon="@mipmap/ic_menu_ajustes"
+        app:showAsAction="ifRoom"/>
+</menu>

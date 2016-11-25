@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#263877</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorFondoBaar">#053359</color>
+    <color name="colorFondoBannerInicio">#053359</color>
+    <color name="colorFondoEncabezado">#00A86B</color>
+    <color name="colorFondoContenido">#ffffff</color>
+    <color name="colorTextoEncabezado">#ffffff</color>
+    <color name="colorTextoContenido">#666666</color>
+    <color name="colorLoginFondoEncabezado">#0e3142</color>
+    <color name="colorLoginFondoContenido">#ffffff</color>
+    <color name="colorLoginTextoContenido">#aaaaaa</color>
+
+</resources>

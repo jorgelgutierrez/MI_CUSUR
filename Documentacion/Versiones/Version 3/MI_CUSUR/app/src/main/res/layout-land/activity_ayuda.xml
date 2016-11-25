@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Inicio_Ayuda"
+    android:background="#09255B">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Olvidaste tu NIP o aun no lo tienes? "
+        android:id="@+id/textView1"
+        android:textColor="#ffffff"
+        android:textSize="13dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Si ya cuentas con una dirección de correo electrónica registrada dentro de los datos personales del SIIAU, oprime el botón de &quot;IR A SIIAU&quot; para poder recuperar tu NIP."
+        android:id="@+id/textView2"
+        android:textColor="#ffffff"
+        android:textSize="13dp"
+        android:layout_below="@+id/textView1"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="10dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="En caso de no recibir tu NIP por correo electrónico deberás solicitar la actualización de tus datos personales del SIIAU en tu Centro Universitario o Sistema respectivo."
+        android:id="@+id/textView3"
+        android:textColor="#ffffff"
+        android:paddingTop="10dp"
+        android:textSize="13dp"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:text="*- El personal administrativo y profesores deben acudir con el coordinador de personal. "
+        android:id="@+id/textView4"
+        android:layout_below="@+id/textView3"
+        android:layout_centerHorizontal="true"
+        android:textColor="#ffffff"
+        android:paddingTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:text="*- Si eres alumno puedes acudir a la Coordinación de Control Escolar."
+        android:id="@+id/textView5"
+        android:layout_below="@+id/textView4"
+        android:layout_centerHorizontal="true"
+        android:textColor="#ffffff"
+        android:paddingTop="10dp"
+        android:textSize="13dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ir a SIIAU"
+        android:id="@+id/textView19"
+        android:textColor="#ffffff"
+        android:textSize="13dp"
+        android:layout_below="@+id/textView5"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="15dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ayuda_BTIrSIIAU"
+        android:background="@android:drawable/ic_menu_set_as"
+        android:textColor="#ffffff"
+        android:textSize="13dp"
+        android:layout_below="@+id/textView19"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

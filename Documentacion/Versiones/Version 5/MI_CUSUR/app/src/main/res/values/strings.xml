@@ -1,0 +1,34 @@
+<resources>
+    //Etiqueta del nombre de la app...
+    <string name="app_name">MICUSur</string>
+
+    //Etiquetas de inicio de la app del login....
+    <string name="inicio_login_nip">NIP</string>
+    <string name="inicio_login_codigo">CODIGO</string>
+
+    //Etiquetas de la navegacion...
+    <string name="navigation_drawer_open">Abrir Navegacion</string>
+    <string name="navigation_drawer_close">Cerrar Navegacion</string>
+
+    //Titulos de las activitys...
+    <string name="title_activity_menu">MICUSur</string>
+    <string name="title_activity_activity_ayuda">Ayuda</string>
+
+    //Servidor para conexiones...
+    <string name="url_servidor">http://micusur.esy.es/</string>
+
+    //Listas de la navegacion...
+    <string-array name="Titulos_Navegacion_Principal">
+        <item>Informacion del Alumno</item>
+        <item>Mi Horario</item>
+        <item>Orden de Pago</item>
+        <item>Kardex</item>
+        <item>Boleta de Calificaciones</item>
+        <item>Como llegar</item>
+        <item>Cerrar Sesion</item>
+    </string-array>
+
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
